@@ -1,3 +1,3 @@
 # svelte-energy
 
-bring energy to your applications with animations.
+Bring energy to your applications with animations.
